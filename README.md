@@ -6,3 +6,6 @@ A chat app where users can enter chat rooms and exchange messages real time.
   2. NodeJS
   3. Vanilla Javascript
   4. Custom CSS
+
+## Dekstop View 
+![chatigator](login page.PNG)
