@@ -8,4 +8,7 @@ A chat app where users can enter chat rooms and exchange messages real time.
   4. Custom CSS
 
 ## Dekstop View 
-![chatigator](chatm.PNG)
+![chatigator-login](login.PNG)
+![chatigator-chat](chatm.PNG)
+![chatigator-mlogin](mobilehome.PNG)
+![chatigator-mchat](mobileview.PNG)
